@@ -1,0 +1,20 @@
+{
+  "name": "socialconnect",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arthurfas123/Socialconnect.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arthurfas123/Socialconnect/issues"
+  },
+  "homepage": "https://github.com/arthurfas123/Socialconnect#readme"
+}
